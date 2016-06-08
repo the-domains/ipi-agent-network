@@ -1,0 +1,14 @@
+layout_spectrum: 0.5796573562547565
+typography_spectrum: 0.28640096518211067
+color:
+  brandStrength: 0.8110604956746101
+  lightness: 0.31777483015321195
+  saturation: 0.5131514496169984
+  rhythmicContrast: 0.9622737450990826
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: IPI Agent Network
